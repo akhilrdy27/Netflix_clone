@@ -1,0 +1,9 @@
+[debug] [2023-09-09T18:50:16.719Z] ----------------------------------------------------------------------
+[debug] [2023-09-09T18:50:16.720Z] Command:       /usr/local/bin/node /usr/local/bin/firebase logout
+[debug] [2023-09-09T18:50:16.721Z] CLI Version:   12.5.2
+[debug] [2023-09-09T18:50:16.721Z] Platform:      darwin
+[debug] [2023-09-09T18:50:16.721Z] Node Version:  v18.12.1
+[debug] [2023-09-09T18:50:16.724Z] Time:          Sun Sep 10 2023 00:20:16 GMT+0530 (India Standard Time)
+[debug] [2023-09-09T18:50:16.724Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-09T18:50:16.791Z] >>> [apiv2][query] GET https://accounts.google.com/o/oauth2/revoke token=1%2F%2F0gMj1odaVPHcsCgYIARAAGBASNwF-L9Ir-2Yb9MLs20MnBVUVm2tSUU669HE45i1OPMPM5u_r0m1KDrntI2Hxj1V3bogxjzQ-i_E
